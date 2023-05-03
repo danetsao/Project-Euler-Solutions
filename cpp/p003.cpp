@@ -1,6 +1,6 @@
 #include <iostream>
 #include <gmp.h>
-
+//INCOMPLETE
 bool isPrime(mpz_class input_num) {
     for (mpz_class i = 2; i < input_num; ++i) {
         if (input_num%i == 0) return false;
