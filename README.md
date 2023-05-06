@@ -1,2 +1,2 @@
 # Solutions for Project Euler
-Lets practice some coding and math(theoretical ig).
+Lets practice some coding and math.
